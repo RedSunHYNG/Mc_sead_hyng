@@ -1,0 +1,10 @@
+execute at @a if entity @e[tag=qysj_boss,distance=..250] run summon creeper ~ ~100 ~ {ActiveEffects:[{Id:11,Amplifier:4,Duration:100}]}
+execute at @a if entity @e[tag=qysj_boss,distance=..250] run summon skeleton ~ ~100 ~ {ActiveEffects:[{Id:11,Amplifier:4,Duration:100}]}
+execute at @a if entity @e[tag=qysj_boss,distance=..250] run summon zombie ~ ~100 ~ {ActiveEffects:[{Id:11,Amplifier:4,Duration:100}]}
+execute at @a if entity @e[tag=qysj_boss,distance=..250] run summon spider ~ ~100 ~ {ActiveEffects:[{Id:11,Amplifier:4,Duration:100}]}
+execute at @a if entity @e[tag=qysj_boss,distance=..250] run summon minecraft:witch ~ ~100 ~ {ActiveEffects:[{Id:11,Amplifier:4,Duration:100}]}
+execute at @a if entity @e[tag=qysj_boss,distance=..250] run summon minecraft:stray ~ ~100 ~ {ActiveEffects:[{Id:11,Amplifier:4,Duration:100}]}
+execute at @a if entity @e[tag=qysj_boss,distance=..250] run summon minecraft:phantom ~ ~100 ~ {ActiveEffects:[{Id:11,Amplifier:4,Duration:100}]}
+execute at @a if entity @e[tag=qysj_boss,distance=..250] run summon minecraft:slime ~ ~100 ~ {ActiveEffects:[{Id:11,Amplifier:4,Duration:100}]}
+execute at @a if entity @e[tag=qysj_boss,distance=..250] run summon minecraft:chicken ~ ~100 ~ {ActiveEffects:[{Id:11,Amplifier:4,Duration:100}]}
+execute at @a if entity @e[tag=qysj_boss,distance=..250] run summon minecraft:pig ~ ~100 ~ {ActiveEffects:[{Id:11,Amplifier:4,Duration:100}]}

@@ -1,0 +1,6 @@
+tellraw @s [{"text":"开启主程序","color":"green","bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"clickEvent":{"action":"run_command","value":"/tag @e[tag=mianstart] add start1"}}]
+tellraw @s [{"text":"开启boss属性","color":"green","bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"clickEvent":{"action":"run_command","value":"/tag @e[tag=mianstart] add start2"}}]
+tellraw @s [{"text":"开启重生限制","color":"green","bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"clickEvent":{"action":"run_command","value":"/tag @e[tag=mianstart] add start4"}}]
+tellraw @s [{"text":"开启传送辅助","color":"green","bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"clickEvent":{"action":"run_command","value":"/tag @e[tag=mianstart] add tpon"}}]
+tellraw @s [{"text":"开启商人系统","color":"green","bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"clickEvent":{"action":"run_command","value":"/tag @e[tag=mianstart] add srmc"}}]
+tellraw @s [{"text":"开启等级系统","color":"green","bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"clickEvent":{"action":"run_command","value":"/tag @e[tag=mianstart] add lev"}}]
